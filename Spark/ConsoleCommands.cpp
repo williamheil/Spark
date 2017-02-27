@@ -8,7 +8,7 @@
 void PrintStartupText()
 {
 	printf(
-	"Spark by Dylan Hughes (click4dylan@live.com). NOT FOR DISTRIBUTION!\n\n"
+	"KKK by Dylan Hughes (click4dylan@live.com). NOT FOR DISTRIBUTION!\n\n"
 	"Console Commands:\n sensitivity, toggleredx, togglegreenx, debugscript, renderdebug,\n"
 	" record, allowquickrecord, pause, exit, quit, editscript, mouse_reset_speed"
 	"\n\n"
