@@ -8,6 +8,10 @@
 BOOL CalledOnLeftClick_Up = 0, CalledOnLeftClick_Down = 0;
 
 void ListenForHotkeys()
+if (GetAsyncKeyState(VK_F1))
+{
+    TryLoadingScriptFile("ak47");
+}
 {
 	if (!globals.paused)
 	{
